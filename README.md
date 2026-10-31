@@ -65,16 +65,6 @@
 **Junior Full Stack Developer** at Boomdevs LLC (Nov 2024 – Mar 2026)
 Building scalable SaaS apps and AI-powered workflows with React, Next.js, Django REST Framework, FastAPI & PostgreSQL.
 
----
-
-### 🏆 Achievements
-
-- 🥇 Champion, Spring Fest Project Showcasing (2023)
-- 🥈 Runner-up, CSE Programming Contest (2024)
-- 🥉 2nd Runner-up, Beginners' Programming Contest (2021)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
